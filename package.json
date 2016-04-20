@@ -1,0 +1,23 @@
+{
+  "name": "elasticli",
+  "version": "0.1.0",
+  "description": "Command line tool for elastic search",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/rabee3/elastic-cli.git"
+  },
+  "keywords": [
+    "Elasticsearch",
+    "nodejs"
+  ],
+  "author": "Rabee Abdelwahab",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rabee3/elastic-cli/issues"
+  },
+  "homepage": "https://github.com/rabee3/elastic-cli#readme"
+}
