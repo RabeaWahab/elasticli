@@ -4,7 +4,7 @@
   "description": "Command line tool for elastic search",
   "main": "lib/index.js",
   "bin": {
-      "elasticli": "./lib/index.js"
+    "elasticli": "./lib/index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -24,7 +24,11 @@
   },
   "homepage": "https://github.com/rabee3/elastic-cli#readme",
   "dependencies": {
+    "chalk": "^1.1.3",
     "commander": "^2.9.0",
     "elasticsearch": "^11.0.1"
+  },
+  "devDependencies": {
+    "eyes": "^0.1.8"
   }
 }
