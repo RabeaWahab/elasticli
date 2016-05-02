@@ -1,6 +1,10 @@
 # elastic-cli
 A command line tool to simplify getting information about your Elastic search installation.
 
+## Installation:
+
+`npm install elasticli -g`
+
 ## Commands:
 
 `elasticli ping`
